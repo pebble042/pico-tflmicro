@@ -1,3 +1,0 @@
-D:/pico/pico-tflmicro/build/pioasm/CMakeFiles/pioasm.dir
-D:/pico/pico-tflmicro/build/pioasm/CMakeFiles/edit_cache.dir
-D:/pico/pico-tflmicro/build/pioasm/CMakeFiles/rebuild_cache.dir
